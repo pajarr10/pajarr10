@@ -10,7 +10,7 @@
 
 ---
 
-# about me
+# About me
 
 ```yaml
 name: Muhammad Fajar
@@ -39,7 +39,7 @@ instagram:
 
 ---
 
-# tech stack
+# Tech stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
@@ -47,7 +47,7 @@ instagram:
 
 ---
 
-# github statistics
+# Github statistics
 
 <div align="center">
 
@@ -59,7 +59,7 @@ instagram:
 
 ---
 
-# streak stats
+# Streak stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ instagram:
 
 ---
 
-# trophies
+# Trophies
 
 <div align="center">
 
@@ -79,7 +79,7 @@ instagram:
 
 ---
 
-# contribution graph
+# Contribution graph
 
 <div align="center">
 
@@ -89,7 +89,7 @@ instagram:
 
 ---
 
-# photography
+# Photography
 
 ```txt
 Street Photography
@@ -110,7 +110,7 @@ Redmi 13
 
 ---
 
-# currently learning
+# Currently learning
 
 ```txt
 Python
@@ -123,7 +123,7 @@ Git & GitHub
 
 ---
 
-# goals
+# Goals
 
 ```txt
 [████████░░] Improve Photography
@@ -135,12 +135,11 @@ Git & GitHub
 
 ---
 
-# coding setup
+# Coding setup
 
 ```txt
 Device      : Redmi 13
 OS          : Android
-Editor      : VS Code
 Terminal    : Termux
 Browser     : Chrome
 GitHub      : pajarr10
@@ -148,7 +147,7 @@ GitHub      : pajarr10
 
 ---
 
-# spotify status
+# Spotify status
 
 ```txt
 Currently:
@@ -159,7 +158,7 @@ for Something Interesting to Photograph.
 
 ---
 
-# random facts
+# Random facts
 
 ```txt
 Started learning from the internet
@@ -172,7 +171,7 @@ Always curious
 
 ---
 
-# socials
+# Socials
 
 <div align="center">
 
@@ -190,7 +189,7 @@ Instagram
 
 ---
 
-# quote
+# Quote
 
 > Every photo captures a moment. Every project captures progress.
 
