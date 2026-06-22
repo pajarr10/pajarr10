@@ -15,7 +15,7 @@
 ```yaml
 name: Muhammad Fajar
 username: pajarr10
-status: Junior High School Student
+status: Esempeh
 
 device:
   - Redmi 13
