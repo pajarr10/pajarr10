@@ -27,9 +27,9 @@
 
 Full-Stack Developer • Web & Backend • AI and Automation Enthusiast
 
-Saya Pajar, dikenal dengan nama **P4J∆R** dan username **[@pajarr10](https://github.com/pajarr10)**. Fokus saya berada di seputar web development, backend, automation, dan cybersecurity, dengan pendekatan belajar berbasis eksperimen langsung.
+Saya Pajar, dikenal dengan nama **P4J∆R** dan username **[@pajarr10](https://github.com/pajarr10)**. Fokus saya berada di seputar web development, backend, automation, Vibecoding, dan cybersecurity, dengan pendekatan belajar berbasis eksperimen langsung.
 
-> Ide → Eksperimen → Error → Analisis → Pemahaman → Iterasi
+> Ide → Eksperimen → Error → Error → Pemahaman → Iterasi
 
 ---
 
@@ -135,8 +135,6 @@ Iterasi kedua dari portofolio pribadi, hasil pengembangan dan perbaikan dari ver
 ---
 
 ## Contribution Snake
-
-<sub>Aktif setelah workflow `snake.yml` dijalankan sekali di tab Actions.</sub>
 
 <div align="center">
 <picture>
