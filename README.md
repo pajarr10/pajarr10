@@ -134,49 +134,31 @@ Iterasi kedua dari portofolio pribadi, hasil pengembangan dan perbaikan dari ver
 
 ---
 
+## Contribution Snake
+
+<sub>Aktif setelah workflow `snake.yml` dijalankan sekali di tab Actions.</sub>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pajarr10/pajarr10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pajarr10/pajarr10/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/pajarr10/pajarr10/output/github-snake.svg" width="95%" alt="Contribution Snake">
+</picture>
+</div>
+
+---
+
 ## Pacman Maze
 
-<!--
-Section ini butuh setup GitHub Action sekali di repo pajarr10/pajarr10
-supaya file SVG-nya benar-benar ada, sama seperti Contribution Snake.
+<sub>Aktif setelah workflow `pacman.yml` dijalankan sekali di tab Actions.</sub>
 
-1. Buat file .github/workflows/pacman.yml isi:
-
-name: Generate Pac-Man Game
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-2. Jalankan workflow-nya sekali lewat tab Actions.
-3. Setelah branch "output" muncul dan file SVG terbentuk, uncomment blok di bawah.
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pajarr10/pajarr10/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pajarr10/pajarr10/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pajarr10/pajarr10/output/pacman-contribution-graph.svg">
 </picture>
--->
+</div>
 
 ---
 
