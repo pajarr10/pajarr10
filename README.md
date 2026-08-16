@@ -1,214 +1,207 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=220&section=header&text=P4J∆R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Photographer&descAlignY=55&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+Things+From+An+Android+Device;Web+Development+%7C+AI+%7C+Automation;Cybersecurity+%7C+Photography;Always+Learning.+Always+Building." alt="Typing SVG"/><br><a href="https://github.com/pajarr10">
+<img src="https://komarev.com/ghpvc/?username=pajarr10&label=PROFILE%20VIEWS&color=7f00ff&style=for-the-badge"/>
+</a><a href="https://github.com/pajarr10?tab=followers">
+<img src="https://img.shields.io/github/followers/pajarr10?label=FOLLOWERS&style=for-the-badge&color=00c6ff"/>
+</a><a href="https://github.com/pajarr10?tab=repositories">
+<img src="https://img.shields.io/github/stars/pajarr10?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=7f00ff"/>
+</a></div>---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MUHAMMAD%20FAJAR&fontSize=45&fontAlignY=40&desc=Photographer%20•%20Vibe%20Coder%20•%20Student&descAlignY=58" width="100%"/>
+👋 HELLO, I'M P4J∆R
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&lines=Hi+I'm+Muhammad+Fajar;Beginner+Photographer;Learning+Python+HTML+CSS+JavaScript;Building+Projects+From+Redmi+13;Canon+SX410+IS+Enjoyer;Always+Learning+New+Things" />
+I'm Pajar, also known online as P4J∆R.
 
-<img src="https://komarev.com/ghpvc/?username=pajarr10&label=PROFILE+VIEWS"/>
+I'm a self-taught developer who likes turning random ideas into real projects.
 
-</div>
+I started learning through the internet, experimenting directly, breaking things, fixing them, and then building something better.
 
----
+My interests move across:
 
-# About me
+WEB DEVELOPMENT
+AI & AUTOMATION
+BACKEND
+CYBERSECURITY
+TOOLS & EXPERIMENTS
+PHOTOGRAPHY
 
-```yaml
-name: Muhammad Fajar
-username: pajarr10
-status: Esempeh
+I don't really have one fixed lane.
 
-device:
-  - Redmi 13
-
-camera:
-  - Canon SX410 IS
-  - Redmi 13
-
-interests:
-  - Photography
-  - Photo Editing
-  - Python
-  - HTML
-  - CSS
-  - JavaScript
-  - Web Development
-
-instagram:
-  - snapshot.by.jare
-```
+I just build whatever makes me curious.
 
 ---
 
-# Tech stack
+⚡ WHAT I DO
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
-</p>
+<div align="center">🧠 AREA| 🚀 CURRENT INTEREST
+🌐 Web Development| Websites, APIs, Frontend & Backend
+🤖 Artificial Intelligence| AI Tools, Agents & Experiments
+⚙️ Automation| Bots, APIs, Scrapers & Utilities
+🔐 Cybersecurity| Web Security & Security Research
+📱 Android / Termux| Building Directly From Mobile
+📸 Photography| Street, Nature, Night & Daily Life
 
----
+</div>---
 
-# Github statistics
+🛠️ TECHNOLOGIES I USE
 
-<div align="center">
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,react,sqlite,git,github,linux,java&perline=8" /></div><br><div align="center">LANGUAGES I KEEP USING
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pajarr10&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajarr10&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="330"/></div>---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajarr10&layout=compact"/>
+📊 GITHUB ANALYTICS
 
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pajarr10&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&count_private=true" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=pajarr10&theme=tokyonight&hide_border=true&background=00000000" height="180"/></div><br><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=pajarr10&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" /></div>---
 
----
+📈 CONTRIBUTION GRAPH
 
-# Streak stats
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pajarr10&bg_color=00000000&color=00c6ff&line=7f00ff&point=ffffff&area=true&hide_border=true" width="95%"/></div>---
 
-<div align="center">
+🐍 CONTRIBUTION SNAKE
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pajarr10"/>
-
-</div>
-
----
-
-# Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pajarr10&margin-w=15&margin-h=15"/>
-
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/pajarr10/pajarr10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>«NOTE: The snake animation is generated automatically from the contribution graph.»
 
 ---
 
-# Contribution graph
+🚀 FEATURED PROJECTS
 
-<div align="center">
+<div align="center"><a href="https://github.com/pajarr10/MyPortofolio_">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pajarr10&repo=MyPortofolio_&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a><a href="https://github.com/pajarr10/Cookora-Web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pajarr10&repo=Cookora-Web&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a><a href="https://github.com/pajarr10/Myportofolio_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pajarr10&repo=Myportofolio_2&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a></div>---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pajarr10"/>
+🔥 THINGS I'VE BEEN BUILDING
 
-</div>
-
----
-
-# Photography
-
-```txt
-Street Photography
-Nature Photography
-Human Interest
-Daily Life
-Night Photography
-Landscape
-Urban Exploration
-```
-
-Equipment
-
-```txt
-Canon SX410 IS
-Redmi 13
-```
-
----
-
-# Currently learning
-
-```txt
-Python
-JavaScript
-Responsive Web Design
-Frontend Development
-Backend Fundamentals
-Git & GitHub
-```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🌐 WEB PROJECTS                                         │
+│     Personal Websites • Portfolio • APIs • Experiments  │
+│                                                          │
+│  🤖 AI PROJECTS                                          │
+│     AI Assistants • Bots • Agents • API Experiments    │
+│                                                          │
+│  ⚙️ TOOLS                                                 │
+│     Downloaders • Scrapers • Automation • Utilities    │
+│                                                          │
+│  🔐 SECURITY                                             │
+│     Security Research • Testing • Educational Tools    │
+│                                                          │
+│  📸 PHOTOGRAPHY                                          │
+│     Street • Nature • Night • Landscape • Daily Life   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 ---
 
-# Goals
+🧪 MY WORKFLOW
 
-```txt
-[████████░░] Improve Photography
-[███████░░░] Learn Python
-[██████░░░░] Learn JavaScript
-[████████░░] Build Portfolio
-[███████░░░] Upload More Projects
-```
+<div align="center">IDEA
+  ↓
+BUILD
+  ↓
+ERROR
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+SHIP
 
----
+</div>I learn best by actually making things.
 
-# Coding setup
+Sometimes the project works immediately.
 
-```txt
-Device      : Redmi 13
-OS          : Android
-Terminal    : Termux
-Browser     : Chrome
-GitHub      : pajarr10
-```
+Sometimes it becomes a complete mess.
 
----
-
-# Spotify status
-
-```txt
-Currently:
-Coding, Editing Photos,
-or Walking Around Looking
-for Something Interesting to Photograph.
-```
+Either way, I learn something from it.
 
 ---
 
-# Random facts
+📱 MY SETUP
 
-```txt
-Started learning from the internet
-Photography enthusiast
-Learning programming from mobile
-Interested in technology
-Love creating projects
-Always curious
-```
+<div align="center"><img src="https://skillicons.dev/icons?i=android,linux,git,github" /></div>DEVICE     : ANDROID
+TERMINAL   : TERMUX
+EDITOR     : WHATEVER GETS THE JOB DONE
+GITHUB     : PAJARR10
 
----
+A lot of my experiments started from a phone.
 
-# Socials
+That makes the process harder sometimes.
 
-<div align="center">
-
-<a href="https://github.com/pajarr10">
-GitHub
-</a>
-
-•
-
-<a href="https://instagram.com/snapshot.by.jare">
-Instagram
-</a>
-
-</div>
+But it also makes building things way more interesting.
 
 ---
 
-# Quote
+📸 PHOTOGRAPHY
 
-> Every photo captures a moment. Every project captures progress.
+Coding isn't the only thing I like.
+
+I'm also into photography.
+
+📷 Street Photography
+🌿 Nature Photography
+🌃 Night Photography
+🏙️ Urban Exploration
+🌄 Landscape
+👥 Human Interest
+🚶 Daily Life
+
+GEAR
+
+CANON SX410 IS
+REDMI 13
+
+For me:
+
+«Every photo captures a moment.
+Every project captures progress.»
 
 ---
 
-<div align="center">
+🧠 CURRENTLY EXPLORING
 
-### Thanks For Visiting
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=7F00FF&center=true&vCenter=true&width=700&lines=Improving+JavaScript;Building+Better+Web+Projects;Exploring+AI;Learning+Backend;Studying+Cybersecurity;Taking+More+Photos" /></div>---
 
- ________  ________        ___  ________  ________  ________     
-|\   __  \|\   __  \      |\  \|\   __  \|\   __  \|\   __  \    
-\ \  \|\  \ \  \|\  \     \ \  \ \  \|\  \ \  \|\  \ \  \|\  \   
- \ \   ____\ \   __  \  __ \ \  \ \   __  \ \   _  _\ \   _  _\  
-  \ \  \___|\ \  \ \  \|\  \\_\  \ \  \ \  \ \  \\  \\ \  \\  \| 
-   \ \__\    \ \__\ \__\ \________\ \__\ \__\ \__\\ _\\ \__\\ _\ 
-    \|__|     \|__|\|__|\|________|\|__|\|__|\|__|\|__|\|__|\|__|
-                                                                 
-                                                                 
-                                                                 
-```
+📌 QUICK FACTS
+
+→ SELF-TAUGHT
+→ STARTED LEARNING FROM THE INTERNET
+→ BUILDS MOSTLY THROUGH PRACTICE
+→ LOVES EXPERIMENTING
+→ INTERESTED IN TECHNOLOGY
+→ PHOTOGRAPHY ENTHUSIAST
+→ LIKES TURNING IDEAS INTO PROJECTS
+→ ALWAYS CURIOUS
+
+---
+
+🌐 FIND ME
+
+<div align="center"><a href="https://github.com/pajarr10">
+<img src="https://img.shields.io/badge/GitHub-PAJARR10-181717?style=for-the-badge&logo=github"/>
+</a><a href="https://instagram.com/snapshot.by.jare">
+<img src="https://img.shields.io/badge/Instagram-SNAPSHOT.BY.JARE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a></div>---
+
+💭 MINDSET
+
+<div align="center">"DON'T JUST LEARN HOW IT WORKS."
+
+"BUILD IT."
+
+"BREAK IT."
+
+"UNDERSTAND WHY."
+
+"THEN BUILD IT BETTER."
+
+</div>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00c6ff&height=120&section=footer&animation=fadeIn"/>THANKS FOR VISITING MY PROFILE.
+
+P4J∆R • BUILDING • LEARNING • EXPLORING
 
 </div>
