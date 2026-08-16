@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&width=600&lines=Hi%2C+I'm+Pajar;Web+%26+Backend+Developer;AI+%26+Automation+Enthusiast;Building%2C+Breaking%2C+Learning" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&width=600&lines=Hi%2C+I'm+Pajar;Web+%26+Vibecoding+Developer;AI+%26+Automation+Enthusiast;Building%2C+Breaking%2C+Learning" alt="Typing Animation"/>
 </div>
 
 <p align="center">
@@ -149,8 +149,6 @@ Iterasi kedua dari portofolio pribadi, hasil pengembangan dan perbaikan dari ver
 ---
 
 ## Pacman Maze
-
-<sub>Aktif setelah workflow `pacman.yml` dijalankan sekali di tab Actions.</sub>
 
 <div align="center">
 <picture>
