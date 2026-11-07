@@ -29,7 +29,7 @@ Full-Stack Developer • Web & Backend • AI and Automation Enthusiast
 
 Saya Pajar, dikenal dengan nama **P4J∆R** dan username **[@pajarr10](https://github.com/pajarr10)**. Fokus saya berada di seputar web development, backend, automation, Vibecoding, dan cybersecurity, dengan pendekatan belajar berbasis eksperimen langsung.
 
-> Ide → Eksperimen → Error → Error → Pemahaman → Iterasi
+> Ide → Eksperimen → Error → Error → Pemahaman → Turu
 
 ---
 
@@ -59,7 +59,7 @@ Saya Pajar, dikenal dengan nama **P4J∆R** dan username **[@pajarr10](https://g
 
 `HTML`
 
-Website portofolio pribadi untuk menampilkan proyek dan profil sebagai developer.
+Website portofolio pribadi terbengkalai 
 
 [`Repository`](https://github.com/pajarr10/MyPortofolio_)
 
@@ -79,7 +79,7 @@ Proyek berbasis web dengan fokus pada fungsionalitas interaktif sisi client.
 
 `HTML`
 
-Iterasi kedua dari portofolio pribadi, hasil pengembangan dan perbaikan dari versi sebelumnya.
+Portofolio terbengkalai 2
 
 [`Repository`](https://github.com/pajarr10/Myportofolio_2)
 
