@@ -166,6 +166,6 @@ Iterasi kedua dari portofolio pribadi, hasil pengembangan dan perbaikan dari ver
 
 <br><br>
 
-<sub>Thanks for visiting</sub>
+<sub>Tengkyu dan kunjungin/sub>
 
 </div>
